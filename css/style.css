@@ -45,6 +45,7 @@ div{
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
+    border-style: solid;
     border-width: 0 0 2px 5px;
     /* top right bottom left */
 }
@@ -52,6 +53,7 @@ div{
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
+    border-style: solid;
     border-width: 2px 5px 0 0;
     color: #C4C4C4;
 }
@@ -62,6 +64,7 @@ div{
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
+    border-style: solid;
     border-width: 0 0 2px 5px;
     color: #707070;
 }
